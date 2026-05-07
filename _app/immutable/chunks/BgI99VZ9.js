@@ -1,0 +1,1 @@
+function e(e){return typeof e==`bigint`&&(e=e.toString()),!e||typeof e!=`string`?`N/A`:e===`0`?`0 ꜩ`:`${e.substring(0,e.length-6)}.${e.substring(e.length-6)} ꜩ`}export{e as t};

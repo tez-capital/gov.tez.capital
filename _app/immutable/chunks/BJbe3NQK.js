@@ -1,0 +1,1 @@
+var e=`TEZGOV`;export{e as t};

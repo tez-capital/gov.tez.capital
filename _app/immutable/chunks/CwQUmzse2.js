@@ -1,0 +1,1 @@
+import{f as e}from"./CgFRcIlK2.js";var t=function(){try{var t=e(Object,`defineProperty`);return t({},``,{}),t}catch{}}();function n(e,n,r){n==`__proto__`&&t?t(e,n,{configurable:!0,enumerable:!0,value:r,writable:!0}):e[n]=r}export{t as n,n as t};

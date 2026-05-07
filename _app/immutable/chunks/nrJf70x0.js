@@ -1,0 +1,1 @@
+async function e(e){await navigator.clipboard.writeText(e)}export{e as t};
