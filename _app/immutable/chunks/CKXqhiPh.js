@@ -1,1 +1,0 @@
-import{o as e}from"./Dd1cyNRI.js";function t(t,n=6){return`${Math.round(Number(t)/e*10**n)/10**n} ꜩ`}function n(e){return`${e/1e7}%`}function r(e){return t(e/1000000n)}function i(e,t){return e=e??0n,t=t??0n,e*BigInt(t)}function a(e){return Number(e??0n)/1e6}function o(e){return`${e.toFixed(2)}x`}export{r as a,t as i,a as n,o,n as r,i as t};
