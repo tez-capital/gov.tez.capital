@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./CylFUEM4.js","./DWl6CmQ8.js","./D3Y_BfoX.js","./DeijZ8X5.js"])))=>i.map(i=>d[i]);
-import{t as e}from"./kNaey6uv.js";var t=`https://rpc.tzkt.io/mainnet`,n=async n=>{let r={Taquito:e(()=>import(`./CylFUEM4.js`).then(e=>e.u),__vite__mapDeps([0,1,2,3]),import.meta.url)};await Promise.allSettled(Object.values(r));let{TezosToolkit:i,MichelCodecPacker:a}=await r.Taquito,o=new i(n??t);return o.setPackerProvider(new a),o};export{n as createTezosToolkit};
