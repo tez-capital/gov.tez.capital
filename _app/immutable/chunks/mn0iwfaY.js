@@ -1,0 +1,1 @@
+import{A as e,O as t}from"./DLvUwmLd.js";import"./B8UK1oE5.js";import"./Dq-Q956C.js";var n=e(`<div class="separator svelte-yi9ahn"></div>`);function r(e){var r=n();t(e,r)}export{r as t};
