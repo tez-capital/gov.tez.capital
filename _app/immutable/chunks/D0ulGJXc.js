@@ -1,0 +1,1 @@
+import{n as e}from"./gqoUo_XW.js";var t=((t={},n={})=>{let r=n.locale??e();return r===`es`?`no hay propuestas`:r===`cs`?`žádné návrhy`:r===`fi`?`ei ehdotuksia`:r===`ja`?`提案なし`:r===`ro`?`nici o propunere`:r===`ua`?`немає пропозицій`:r===`fr`?`aucune proposition`:`no proposals`});export{t};

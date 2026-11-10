@@ -1,0 +1,1 @@
+import{t as e}from"./Bjp52BOI.js";var t=e(((e,t)=>{t.exports=function(e){return ArrayBuffer.isView(e)?Buffer.from(e.buffer,e.byteOffset,e.byteLength):Buffer.from(e)}}));export{t};
